@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Nextjs,Django**
 
-- 👯 I’m looking to collaborate on **fullstack projects**
+- 👯 I’m looking for collaborate on **fullstack projects**
 
 - 📫 How to reach me **tamaghnog@gmail.com**
 
